@@ -1,4 +1,4 @@
-# collider
+# meta-city-basic
 
 ## Project setup
 ```
